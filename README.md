@@ -113,5 +113,6 @@ This dashboard can help hospital administrators:
 ## 📸 Dashboard Snapshots
 
 ![Dash1](https://github.com/user-attachments/assets/5887d5c5-91fd-43bf-aa8f-b1b0f38e6935)
-![Dash1](https://github.com/user-attachments/assets/6f2790a6-e0c5-4f6f-a559-8ce651f22696)
 
+
+![Dash2](https://github.com/user-attachments/assets/dba9d786-ec96-4317-b379-07efc20028cc)
